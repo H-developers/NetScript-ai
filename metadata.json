@@ -1,0 +1,5 @@
+{
+  "name": "NetScript AI Generator",
+  "description": "Generates high-performance, cross-platform Python scripts for network and Bluetooth device discovery.",
+  "requestFramePermissions": []
+}
